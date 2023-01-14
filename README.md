@@ -1,4 +1,8 @@
 ![rpitx banner](/doc/rpitxlogo.png)
+
+# About this fork
+I wanted to pull in some enhancements. This contains all of the non typo/grammar related PRs from upstream as of today.
+
 # About rpitx
 **rpitx** is a general radio frequency transmitter for Raspberry Pi which doesn't require any other hardware unless filter to avoid intererence. It can handle frequencies from 5 KHz up to 1500 MHz.
 
